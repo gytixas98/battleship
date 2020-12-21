@@ -1,0 +1,20 @@
+body {
+    margin: 1%;
+    width: 100%;
+	background: #f6f8f9; /* Old browsers */
+}
+
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+
+#gameboard {
+	
+	margin:0 auto 2em auto;
+	width:500px;
+	height:500px;
+}
+
+	
